@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.uninorte.tsh" version="1.0">
+<name>There's still hope</name> 
+<description>
+F*ck, i'm tired
+</description> 
+<author email="mjhurtado@uninorte.edu.co">
+Kektobismol
+</author> 
+<icon src="icon.png" width="72" height="72" />
+</widget>
