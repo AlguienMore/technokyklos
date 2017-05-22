@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.uninorte.tsh" version="1.0">
-<name>There's still hope</name> 
+<name>Technokyklos</name> 
 <description>
-F*ck, i'm tired
+Aprende un poco más sobre como reciclar tus dispositivos.
 </description> 
-<author email="mjhurtado@uninorte.edu.co">
-Kektobismol
+<author email="mjhurtado@uninorte.edu.co" email="mjlozano@uninorte.edu.co">
+ José Hurtado, Jesús Lozano
 </author> 
 <icon src="icon.png" />
 </widget>
