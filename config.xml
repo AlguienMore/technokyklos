@@ -15,7 +15,9 @@ Aprende un poco más sobre como reciclar tus dispositivos.
         <icon src="iconos/xxhdpi.png" density="xxhdpi" />
         <icon src="iconos/xxxhdpi.png" density="xxxhdpi" />
     </platform>
-
+ <platform name="ios">
+        <icon src="iconos/xhdpi.png"/>
+ </platform>
 <plugin name="cordova-plugin-whitelist" spec="~1" />
  <plugin name="cordova-plugin-inappbrowser" />
 
